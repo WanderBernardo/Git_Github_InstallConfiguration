@@ -17,3 +17,18 @@ Are configurations that all project going to use and integration with GITHUB.
 
    * Use command: ``` git config --global user.email include your the same email of the Github account" ```, accorting to below:
      ![image](https://github.com/user-attachments/assets/396ceeb3-2420-4ffe-bdc5-d11157b70e3e)
+
+   * Use command: ``` git config --global init.defaultBranch main ```, this change want to say it's main foulder when it make upload of the project in the GitHub.
+     ![image](https://github.com/user-attachments/assets/7d5f15e1-f61c-46ca-8ad4-96ac24a782f4)
+
+Remembering these configurations not change preceding projects etc so, need to be first thing to make.
+
+4 - At this moment, let's go to ckeck configuration:
+
+   * Account Name: ``` git config --global user.name ```
+   * Account email: ``` git config --global user.email ```
+   * Main Foulder: ``` git config --global init.defaultBranch ```
+   Or
+   * ``` git config --global --list ```
+     
+     ![image](https://github.com/user-attachments/assets/c8ba355c-074a-46da-969f-cfa1f9bb20e4)
