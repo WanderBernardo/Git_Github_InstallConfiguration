@@ -16,9 +16,9 @@ In this install and Configuration we're going to use Windows 10 and Git version:
 
 https://github.com/WanderBernardo/Git_Github_InstallConfiguration/blob/main/Git_Install.md
 
-### Configuration:
+### Configuration: Git_Configuration.md File
 
-
+https://github.com/WanderBernardo/Git_Github_InstallConfiguration/blob/main/Git_Configuration.md
 
 
 
