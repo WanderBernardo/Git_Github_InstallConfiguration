@@ -12,11 +12,11 @@ In this install and Configuration we're going to use Windows 10 and Git version:
 
 - https://git-scm.com/doc
 
-### Install: Git_Install.md File
+### 01. Install: Git_Install.md File
 
 https://github.com/WanderBernardo/Git_Github_InstallConfiguration/blob/main/Git_Install.md
 
-### Configuration: Git_Configuration.md File
+### 02. Configuration: Git_Configuration.md File
 
 https://github.com/WanderBernardo/Git_Github_InstallConfiguration/blob/main/Git_Configuration.md
 
