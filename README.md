@@ -12,7 +12,6 @@ In this install and Configuration we're going to use Windows 10 and Git version:
 
 - https://git-scm.com/doc
 
-
 ### Install:
 
 1 - Open the site: https://git-scm.com/, and select "Download for Windows":
@@ -29,7 +28,14 @@ If you are using other Operation System so, click in "Downloads" and select oper
 
 Make sure that the options: "Open Git Bash here" and "Open Git GUI here" are selected, third screen above.
 
+4 - Vaidate if install finished correct with right botton of the mouse:
+![image](https://github.com/user-attachments/assets/108222d4-48aa-49b7-b162-0c3805fd77ef)
+
 
 ### Configuration:
 
-1 - 
+1 - Now, click in the item: "Open Git Bash here" to open comand screen:
+![image](https://github.com/user-attachments/assets/480349f2-2c1a-4771-8424-cfcfcdc683f2)
+
+
+
