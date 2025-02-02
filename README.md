@@ -28,3 +28,8 @@ If you are using other Operation System so, click in "Downloads" and select oper
 ![image](https://github.com/user-attachments/assets/ef4e05e5-f963-42d0-8518-9c9401dc9192)
 
 Make sure that the options: "Open Git Bash here" and "Open Git GUI here" are selected, third screen above.
+
+
+### Configuration:
+
+1 - 
