@@ -28,8 +28,8 @@ There are two way: Token or SSH Key.
 
 - via Token(HTTPS): Git_AuthenticateToken.md File
 
-https://github.com/WanderBernardo/Git_Github_InstallConfiguration/blob/main/Git_AuthenticateToken
+  https://github.com/WanderBernardo/Git_Github_InstallConfiguration/blob/main/Git_AuthenticateToken
 
 - via SSH Key: AuthenticateSSHKey.md
 
-https://github.com/WanderBernardo/Git_Github_InstallConfiguration/blob/main/AuthenticateSSHKey.md
+  https://github.com/WanderBernardo/Git_Github_InstallConfiguration/blob/main/AuthenticateSSHKey.md
