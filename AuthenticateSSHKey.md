@@ -72,11 +72,16 @@ When show message below it's okay:
 ![image](https://github.com/user-attachments/assets/6dc7cc6b-54e6-4cec-8080-44238087e9fa)
 
 12 - After of click in "Add SSH key", confirm again your password and Done.
+![image](https://github.com/user-attachments/assets/e67c5793-9d38-4a6a-8142-f0d8263b96c8)
 
 
 ### Configuration Test 
 
 13 - To Execuse again command: ``` git clone https://github.com/WanderBernardo/TestCloneGitDesktop ```.
 
+![image](https://github.com/user-attachments/assets/2d928e48-d90c-4174-b170-25f73a92481a)
+
+
+![image](https://github.com/user-attachments/assets/a77f60d6-b1be-4bb4-b152-a3be77774536)
 
 
