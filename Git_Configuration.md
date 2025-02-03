@@ -19,7 +19,6 @@ Are configurations that all project going to use and integration with GITHUB.
      ![image](https://github.com/user-attachments/assets/396ceeb3-2420-4ffe-bdc5-d11157b70e3e)
 
    * Use command: ``` git config --global init.defaultBranch main ```, this change want to say it's main foulder when it make upload of the project in the GitHub.
-
      ![image](https://github.com/user-attachments/assets/7d5f15e1-f61c-46ca-8ad4-96ac24a782f4)
 
 Remembering these configurations not change preceding projects etc so, need to be first thing to make.
