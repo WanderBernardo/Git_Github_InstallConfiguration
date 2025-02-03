@@ -20,7 +20,7 @@ https://github.com/WanderBernardo/Git_Github_InstallConfiguration/blob/main/Git_
 
 https://github.com/WanderBernardo/Git_Github_InstallConfiguration/blob/main/Git_Configuration.md
 
-### 03. Authenticate via Token
+### 03. Authenticate via Token: Git_AuthenticateToken.md File
 
 https://github.com/WanderBernardo/Git_Github_InstallConfiguration/blob/main/Git_AuthenticateToken
 
