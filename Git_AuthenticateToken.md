@@ -3,6 +3,11 @@
 
 - https://github.blog/security/application-security/token-authentication-requirements-for-git-operations/
 
+
+### Create Repository in the GitHub
+
+
+
 ### Configuration: Authenticate Token
 
 1 - Open Github: https://github.com/ and clik "Settings" in your photo:
@@ -31,4 +36,12 @@ At this case, I'm going to configurate:
 6 - At the end page, click in the botton "Generate token":
 ![image](https://github.com/user-attachments/assets/f23f855b-4a89-448f-9ff7-18405b754d99)
 
-7 - 
+Don't leave the screen until you complete the configuration in Git and verify that it worked
+![image](https://github.com/user-attachments/assets/a1d70cd2-6390-43c1-b469-ee87a4cab9c8)
+
+7 - Open in the command screen(Bash) and make command according below (in the same sequence):
+- Use command: ``` git config --global credencial.helper store ```
+![image](https://github.com/user-attachments/assets/7d18f775-b6ac-4605-840e-745db23e3dce)
+
+- Use command: ```  ```
+
