@@ -6,7 +6,12 @@
 
 ### Create Repository in the GitHub
 
+- Repository name: TestCloneGitDesktop
+- "Private"
 
+Link: https://github.com/WanderBernardo/TestCloneGitDesktop
+
+This repository can be canceled in the finish configuration of the token.
 
 ### Configuration: Authenticate Token
 
@@ -43,5 +48,32 @@ Don't leave the screen until you complete the configuration in Git and verify th
 - Use command: ``` git config --global credencial.helper store ```
 ![image](https://github.com/user-attachments/assets/7d18f775-b6ac-4605-840e-745db23e3dce)
 
-- Use command: ```  ```
+- Use command: ``` git clone https://github.com/WanderBernardo/TestCloneGitDesktop ```
+![image](https://github.com/user-attachments/assets/8a26a276-32ef-4acf-857d-420d87a6fb3c)
+
+8 - When typing the above command and not will be opened portal of the "Github", it will show screen below:
+![image](https://github.com/user-attachments/assets/f0a1bd44-3f41-4dae-a3c3-5031f4a7ff6f)
+
+Then, Select "Browser/Device" or "Token". In this case, I selected: "Token" and paste Token previously created.
+
+After, if will go to show mensage:
+![image](https://github.com/user-attachments/assets/337ae585-938d-4cd8-b86a-272ac4f8cffd)
+
+
+### Configuration Test 
+
+9 - Delete clone foulder created in the your device:
+![image](https://github.com/user-attachments/assets/f44a8de9-2b36-4051-b70a-197438aeba1e)
+
+10 - To Execuse again command: ``` git clone https://github.com/WanderBernardo/TestCloneGitDesktop ```.
+
+If it don't request again for token. Configuration finished correctly!
+
+## Consult or Delete token
+
+Go to step 01, 02, 03 and 04.
+![image](https://github.com/user-attachments/assets/8dd95ec6-37d8-4434-b456-b26fb8e0e82c)
+
+
+
 
