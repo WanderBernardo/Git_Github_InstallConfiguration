@@ -22,7 +22,11 @@ https://github.com/WanderBernardo/Git_Github_InstallConfiguration/blob/main/Git_
 
 ### 03. Authenticate:
 
-- via Token: Git_AuthenticateToken.md File
+There are two way: Token or SSH Key.
+
+![image](https://github.com/user-attachments/assets/1662d6c1-4a79-4463-9a49-9f8bbe0c13d0)
+
+- via Token(HTTPS): Git_AuthenticateToken.md File
 
 https://github.com/WanderBernardo/Git_Github_InstallConfiguration/blob/main/Git_AuthenticateToken
 
