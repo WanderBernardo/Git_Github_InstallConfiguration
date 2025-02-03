@@ -22,6 +22,7 @@ https://github.com/WanderBernardo/Git_Github_InstallConfiguration/blob/main/Git_
 
 ### 03. Authenticate via Token
 
+https://github.com/WanderBernardo/Git_Github_InstallConfiguration/blob/main/Git_AuthenticateToken
 
 ### 04. Authenticate via SSH Key
 
