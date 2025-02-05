@@ -16,3 +16,7 @@ Make sure that the options: "Open Git Bash here" and "Open Git GUI here" are sel
 
 4 - Vaidate if install finished correct with right botton of the mouse:
 ![image](https://github.com/user-attachments/assets/108222d4-48aa-49b7-b162-0c3805fd77ef)
+
+## Next Step:
+
+https://github.com/WanderBernardo/Git_Github_InstallConfiguration/blob/main/Git_Configuration.md
